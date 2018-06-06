@@ -1,0 +1,2 @@
+# static
+static for all
